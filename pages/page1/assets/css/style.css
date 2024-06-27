@@ -1,0 +1,19 @@
+.card{
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    padding: 2rem;
+    width: 45dvw;
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.301);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    font-size: 1.2rem;
+    border: 1px solid rgba(234, 7, 7, 0.212);
+    color: rgb(141, 93, 93);
+    border-radius: 15px;
+    & > p{
+        width: 70%;
+    }
+}

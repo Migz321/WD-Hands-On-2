@@ -19,7 +19,7 @@ img {
 header.header{
     position: relative;
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: center;
     padding: 20px 50px;
     color: white;
@@ -33,7 +33,7 @@ header.header{
         padding: 20px;
         transition: all 0.3s ease-in-out;
         &:hover{
-            background-color: white;
+            background-color: black;
             color: red;
             box-shadow: 14px 14px 21px 8px rgba(0,0,0,0.61);
 -webkit-box-shadow: 14px 14px 21px 8px rgba(0,0,0,0.61);
