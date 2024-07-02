@@ -19,7 +19,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://github.com/Migz321/WD-Hands-On-2/edit/main/readme.md)
+![](https://visit-counter.vercel.app/counter.png?page=Migz321/WD-Hands-on-2)
 
 ---
 
