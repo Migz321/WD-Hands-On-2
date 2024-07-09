@@ -19,7 +19,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://github.com/MiguelAlcantara2004/WD-Hands-On-2/edit/main/readme.md)
+![](https://visit-counter.vercel.app/counter.png?page=Migz321/WD-Hands-on-2)
 
 ---
 
@@ -56,7 +56,8 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+ This repository is to show case different design of hero and cards in ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) and ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ 
 
 
 ### Key Components
@@ -108,5 +109,3 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
