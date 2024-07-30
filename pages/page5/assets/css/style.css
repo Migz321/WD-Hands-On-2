@@ -5,96 +5,94 @@
 }
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: #f1f1f1;
-}
-img {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    min-width: 100%;
-    min-height: 100%;
-    height: 100%;
-    width: 100%;
-  }
-header.header{
-    position: relative;
     display: flex;
-    justify-content: flex-end;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url(../img/ebfd6824-ddb7-448d-b715-522c9162b561-1676679775620.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header.navigation{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
     align-items: center;
-    padding: 20px 50px;
-    color: white;
-    text-shadow: 5px 5px 8px rgba(0,0,0,0.57);
-    & a{
-        color: white;
-        text-decoration: none;
-        font-size: 2rem;
-        font-weight: 1000;
-        border: 0px solid white;
-        padding: 20px;
-        transition: all 0.3s ease-in-out;
+    width: 70%;
+    padding: 20px 0;
+    & img{
+        width: 100px;
+        transition: 3s;
         &:hover{
-            background-color: black;
-            color: red;
-            box-shadow: 14px 14px 21px 8px rgba(0,0,0,0.61);
--webkit-box-shadow: 14px 14px 21px 8px rgba(0,0,0,0.61);
--moz-box-shadow: 14px 14px 21px 8px rgba(0,0,0,0.61);
+            transform: rotateY(720deg);
+        }
+    }
+    & a{
+        text-decoration: none;
+        color: white;
+        font-size: 1.2rem;
+        margin: 0 10px;
+        font-weight: 1000;
+        text-shadow: 4px 3px 5px rgba(0,0,0,0.6);
+        transition: 0.5s;
+        border: 50% ;
+        &:hover{
+            color: orange;
+            text-shadow: 4px 3px 5px rgba(0,0,0,0.6);
+        }
+        &.active{
+            color: orange;
+            text-shadow: 4px 3px 5px rgba(0,0,0,0.6);
         }
     }
 }
-section.hero{
+section.container-1{
     display: flex;
+    flex-direction: row;
     justify-content: center;
-    align-items: center;
-    position: relative;
-    height: 50vh;
-    color:white;
-    text-shadow: 5px 5px 8px rgba(0,0,0,0.57);
-    & h1{
-        font-size: 5rem;
-        font-weight: 1000;
+    align-items: flex-start;
+    padding: 1.5rem;
+    & div.hero{
+        color: white;
         align-items: center;
         justify-content: center;
+        display: flex;
+        flex-direction: column;
+        width: 30%;
+        padding: 1rem;
+        margin: 1rem;
+        & h2{
+            font-size: 2rem;
+            font-weight: 1000;
+            text-shadow: 4px 3px 5px rgba(0,0,0,0.6);
+        }
+        & img.Luffy{
+            height: 15rem;
+             &:hover{
+                transition: 3.4s ease-in-out;
+                transform: scale(2);
+             }
+        }
     }
-    & p{
-        font-size: 1.5rem;
-        font-weight: 500;
+    & div.hero-two{
+        color: white;
         align-items: center;
         justify-content: center;
+        display: flex;
+        flex-direction: column;
+        width: 30%;
+        padding: 1rem;
+        margin: 1rem;
+        & h2{
+            font-size: 2rem;
+            font-weight: 1000;
+            text-shadow: 4px 3px 5px rgba(0,0,0,0.6);
+        }
+        & img.kaido{
+            height: 15rem;
+            &:hover{
+                transition: 3.4s ease-in-out;
+                transform: scale(2);
+        }
     }
 }
-footer.footer{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: relative;
-    padding: 20px;
-    height: 45vh;
-    color: white;
-    opacity: 0.8;
-    text-shadow: 5px 5px 8px rgba(0,0,0,0.57);
-    & p{
-        font-size: 1.5rem;
-        font-weight: 500;
-    }
-}
-
-.card{
-    
-    position: absolute;
-    top: 70%;
-    left: 25%;
-    transform: translate(-50%, -50%);
-    padding: 2rem;
-    width: 45dvw;
-    background: rgba(255, 255, 255, 0.1);
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.301);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    font-size: 1.2rem;
-    border: 1px solid rgba(158, 13, 220, 0.212);
-    color: rgb(8, 8, 8);
-    border-radius: 15px;
-    & > p{
-        width: 90%;
-    }
 }
