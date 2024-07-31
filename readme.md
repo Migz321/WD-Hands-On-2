@@ -12,7 +12,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
- This repository is to show case different design of hero and cards in HTML and CSS
+ This repository is to show case different design of hero and cards in HTML and CSS to highlight various hero parts and card styles.
 </div>
 
 <br />
@@ -63,7 +63,8 @@
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website
+- MultiPage Website/Single page
+- startic animated of hero's and card's
 
 
 ### Technology
@@ -109,3 +110,8 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
+|-|-|-|
+| HTML Tutorial | HTML Tutorial of the basics | https://www.w3schools.com/html/ |
+| CSS Tutorial | CSS Tutorial of the basics | https://www.w3schools.com/css/ |
+
+
