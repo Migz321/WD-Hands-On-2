@@ -12,7 +12,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
- This repository is to show case different design of hero and cards in HTML and CSS to highlight various hero parts and card styles.
+ This repository is to show case different design of hero and cards in HTML and CSS. to highlight various hero parts and card styles.
 </div>
 
 <br />
