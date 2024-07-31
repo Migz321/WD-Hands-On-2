@@ -12,7 +12,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
- This repository is to show case different design of hero and cards in HTML and CSS. to highlight various hero parts and card styles.
+ This repository is to show case different design of hero and cards in HTML and CSS.
 </div>
 
 <br />
@@ -56,7 +56,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
- This repository is to show case different design of hero and cards in ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) and ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ This repository is to show case different design of hero and cards in ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) and ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) to highlight various hero parts and card styles
  
 
 
