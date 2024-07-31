@@ -63,7 +63,7 @@
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single page
+- MultiPage Website
 - startic animated of hero's and card's
 
 
