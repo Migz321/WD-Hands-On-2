@@ -64,7 +64,6 @@
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website
-- startic animated of hero's and card's
 - Hover buttons
 
 
